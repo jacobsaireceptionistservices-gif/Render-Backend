@@ -30,7 +30,7 @@ app.post("/twillo?voice", (req, res) => {
 <?xml version="1.0" encoding="UTF-8"?>
 <response>
   <say voice="alice">
-   Thank you fot calling Precision Auto Service.
+   Thank you for calling Precision Auto Service.
    How can we help you today?
   </say>
 </Response>
